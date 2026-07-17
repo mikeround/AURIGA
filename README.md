@@ -1,5 +1,5 @@
 # AURIGA
-An AI-driven strategic intelligence and decision-support platform that integrates real-time data ingestion, multimodal analysis, geospatial visualization, temporal correlation, automated event classification, risk detection, and multi-model orchestration within a unified operational environment.
+AURIGA-PERSONAL is a local-first evidence analysis platform for securely processing large datasets, files, and live audio/video. It combines deterministic extraction with cloud or local AI, preserves encrypted chain of custody, supports human review, and generates professional case reports.
 
 <!-- Imagen: colocar image_cere.png en images/image_cere.png o ajustar la ruta según donde la subas -->
 ![Imagen AURIGA](c0da2e48-6226-4666-924b-902497085b8c.png)
